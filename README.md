@@ -4,7 +4,7 @@
 
 **This repository is designed to revisit Next JS**
 
-Develop a Next.js application that highlights the key features of Next.js along with a comprehensive CRUD AI Prompt sharing system utilizing a MongoDB database and implementing NextAuth authentication.
+Develop a Next.js application that highlights the key features of Next.js along with a comprehensive CRUD AI Prompt sharing system utilising a MongoDB database and implementing NextAuth authentication.
 
 </p>
 

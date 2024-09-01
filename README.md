@@ -11,6 +11,7 @@ Develop a Next.js application that highlights the key features of Next.js along 
 ## Technical Skills 💻
 
 <img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" />
+<img align="left" alt="NextJS" height="50px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" />
 <img align="left" alt="Javascript" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />
 <img align="left" alt="mongodb" height="50px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg" />
 <img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />

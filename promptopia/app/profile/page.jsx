@@ -42,7 +42,7 @@ const MyProfile = () => {
             handleDelete={handleDelete}
         />
 
-    )
+    );
 }
 
 export default MyProfile;
